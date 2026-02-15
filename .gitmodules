@@ -1,0 +1,12 @@
+[submodule "Machine-Learning"]
+	path = Machine-Learning
+	url = https://github.com/Gengzhige/Machine-Learning.git
+[submodule "Reinforcement-Learning"]
+	path = Reinforcement-Learning
+	url = https://github.com/Gengzhige/Reinforcement-Learning.git
+[submodule "Deep-Learning-Code"]
+	path = Deep-Learning-Code
+	url = https://github.com/Gengzhige/Deep-Learning-Code.git
+[submodule "Deep-Learning"]
+	path = Deep-Learning
+	url = https://github.com/Gengzhige/Deep-Learning.git
